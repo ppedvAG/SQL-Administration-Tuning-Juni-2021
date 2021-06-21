@@ -2,25 +2,32 @@
 
 
 ## Virtualisierung
-	# NUMA
+	* NUMA
+	* fixer Speicher
 
 ## Setup und FirstSetup
 	* tempdb
 	* Maxdop
 	* RAM
+	* Volumewartungstask
 
 ## Datenbanken und Design
 	* Normalisierung und Datentypen
-	* Architektur und Probleme 
+	* Architektur und Probleme (Seiten/Blöcke)
 	* Objektkunden
+	* Kompression
+	* Intialgrößen, Wachstumsraten
 	
 ## Salamitaktik
-	
-## Indizes
+	* partitionierte Sicht
+	* Partitionierung
 	
 ## Messungen und Monitoring
 
 	* Tools (Perfmon, Profiler, Xvents, DTA, DMVs)
+	* Xevents
+
+## Indizes
 
 
 
